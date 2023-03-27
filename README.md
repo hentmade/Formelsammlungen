@@ -1,6 +1,6 @@
 # Formelsammlungen
 
-- ![#f03c15]rot`#f03c15` = nicht geprüft
+- rot = nicht geprüft
 - dunkelrot = wichtig
 
 - ohne Garantie auf Richtigkeit
