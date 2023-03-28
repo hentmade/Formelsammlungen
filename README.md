@@ -1,6 +1,6 @@
 # Formelsammlungen
 
-- rot = nicht geprüft
+- rot = nicht geprüft !!!
 - dunkelrot = wichtig
 
 - ohne Garantie auf Richtigkeit
